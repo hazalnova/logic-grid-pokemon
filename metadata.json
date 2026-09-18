@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon League Logistics",
+  "description": "A logic grid puzzle featuring four legendary Pokémon trainers, regions, partners, Poké Balls, and held items with SHA-256 verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
